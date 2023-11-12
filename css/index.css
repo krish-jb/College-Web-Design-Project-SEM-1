@@ -95,7 +95,7 @@ header nav a:hover {
 .main-content {
     padding: 20px;
     margin: 0;
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -133,20 +133,22 @@ header nav a:hover {
 .para{
     padding: 20px;
     margin: 10px 20% 10px 20%;
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(255, 255, 255);
     border: 0;
     border-radius: 10px;
-    text-align: justify;
-    box-shadow: 1px 1px 10px black;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40pt;
+    font-family: roboto;
 }
-
 
 .para h2{
     text-transform: capitalize;
-    font-family: Impact;
+    font-family: roboto;
     font-weight: lighter;
     text-align: center;
-    color: black;
+    color: rgb(126, 126, 126);
+    font-size: 40px;
 }
 
 footer {
