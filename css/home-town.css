@@ -58,6 +58,13 @@
 .grid-container h2{
     font-size: 40px;
     font-family: Roboto-bold;
+    text-transform: capitalize;
+}
+
+.grid-container2 h2{
+    font-size: 40px;
+    font-family: Roboto-bold;
+    text-transform: capitalize;
 }
 
 .grid-container .font{
